@@ -1,0 +1,6 @@
+[submodule "IODevice"]
+	path = IODevice
+	url = https://github.com/mrbaoquan/IODevice
+[submodule "IOUI"]
+	path = IOUI
+	url = https://github.com/mrbaoquan/IOUI
